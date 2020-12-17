@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=unclecarlos&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![UncleCarlos's github stats](https://github-readme-stats.vercel.app/api?username=unclecarlos&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unclecarlos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
