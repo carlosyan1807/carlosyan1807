@@ -6,6 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unclecarlos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![UncleCarlos's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@fdd0faf4-5f58-42f1-96c8-328cf1e66f8b)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **UncleCarlos/UncleCarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
