@@ -1,7 +1,12 @@
-### Hi there 👋
+[![UncleCarlos's github stats](https://github-readme-stats.vercel.app/api?username=unclecarlos&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unclecarlos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **UncleCarlos/UncleCarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
