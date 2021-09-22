@@ -4,9 +4,9 @@
 
 [![carlosyan1807's github stats](https://github-readme-stats.vercel.app/api?username=carlosyan1807&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosyan1807&layout=compact&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosyan1807&layout=compact&theme=onedark&show_icons=true&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 
-[![carlosyan1807's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cybercarlos&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![carlosyan1807's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cybercarlos&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **UncleCarlos/UncleCarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
